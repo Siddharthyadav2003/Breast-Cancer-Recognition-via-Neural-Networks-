@@ -27,6 +27,10 @@ In this project, we will:
 
 **IDC** stands for Invasive Ductal Carcinoma, a common form of breast cancer that accounts for 80% of all breast cancer diagnoses. **Histology** is the study of the microscopic structure of tissues.
 
+This is the image of graph
+
+[Uploading Screenshot 2024-08-09 at 12.52.30 PM.png…]()
+
 ## The Dataset
 
 We use the `IDC_regular` dataset from Kaggle, which contains 277,524 patches of size 50x50 extracted from 162 whole mount slide images of breast cancer specimens. Out of these, 198,738 patches are negative, and 78,786 patches are positive for IDC. You can download the dataset [here](https://www.kaggle.com/c/histopathologic-cancer-detection/data). Ensure you have at least 3.02GB of disk space to download and store the dataset.
@@ -53,8 +57,6 @@ You can install these packages using pip:
 
 ```bash
 pip install tensorflow keras numpy matplotlib scikit-learn
-
-![Uploading Screenshot 2024-08-09 at 12.52.30 PM.png…]()
 
 
 
