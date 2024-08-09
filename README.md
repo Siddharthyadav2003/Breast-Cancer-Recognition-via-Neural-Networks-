@@ -29,7 +29,8 @@ In this project, we will:
 
 This is the image of graph
 
-[Uploading Screenshot 2024-08-09 at 12.52.30 PM.png…]()
+<img width="1115" alt="Graph" src="https://github.com/user-attachments/assets/b986f4f0-e46a-42f1-bfed-18624356f1d1">
+
 
 ## The Dataset
 
