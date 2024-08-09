@@ -53,3 +53,8 @@ You can install these packages using pip:
 
 ```bash
 pip install tensorflow keras numpy matplotlib scikit-learn
+
+![Uploading Screenshot 2024-08-09 at 12.52.30 PM.png…]()
+
+
+
