@@ -1,9 +1,6 @@
 # Breast-Cancer-Recognition-via-Neural-Networks-
 
 
-
-# Breast Cancer Classification Project in Python
-
 ## Overview
 
 This project aims to build a breast cancer classifier using deep learning techniques. We will utilize a Convolutional Neural Network (CNN) to classify histology images as benign or malignant. This README provides an overview of the project, its objectives, and how to set it up and run it.
